@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anan5a" alt="anan5a" /></a> </p>
 
+- 🌱 I’m currently learning **C\# dotnet framework**. Good luck to me...
+
 - 🔭 I’m currently working on **Android with Jetpack Compose**
 
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose**
